@@ -4,7 +4,7 @@
       <div>
         <span
           class="md:text-6xl text-5xl font-bold bg-gradient-to-r from-green-400 to-blue-500 border-b-4 text-transparent bg-clip-text">Unbound's
-          Exclusive NFT's</span>
+          Exclusive NFTs</span>
       </div>
       <div class="grid grid-flow-row grid-cols-1 md:grid-cols-3 grid-rows-4 gap-12 md:pt-24 pt-10">
         <div v-for="(nftImage, id) in nftImages" :key="id">
