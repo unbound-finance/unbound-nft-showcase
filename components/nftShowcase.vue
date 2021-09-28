@@ -3,7 +3,7 @@
     <div class="w-5/6 md:py-24 py-10 flex flex-col items-center justify-center">
       <div>
         <span
-          class="md:text-6xl text-4xl font-bold bg-gradient-to-r from-green-400 to-blue-500 border-b-4 text-transparent bg-clip-text">Unbound's
+          class="md:text-6xl text-5xl font-bold bg-gradient-to-r from-green-400 to-blue-500 border-b-4 text-transparent bg-clip-text">Unbound's
           Exclusive NFT's</span>
       </div>
       <div class="grid grid-flow-row grid-cols-1 md:grid-cols-3 grid-rows-4 gap-12 md:pt-24 pt-10">
